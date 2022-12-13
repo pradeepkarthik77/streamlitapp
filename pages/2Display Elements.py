@@ -19,7 +19,7 @@ with st.expander("**st.write**"):
 
     st.write("**Its output:**")
 
-    st.write('Hello everyone Im st.write')"
+    st.write('Hello everyone Im st.write')
 
 with st.expander("**Title**"):
 
