@@ -59,7 +59,7 @@ st.write("Used to Draw a Map Chart of a Data Source")
 
 st.write("**Code**")
 
-st.code("map_chart = st.bar_chart(df)")
+st.code("map_chart = st.map(df)")
 
 st.write("**It's Output:**")
 
